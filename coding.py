@@ -9,6 +9,8 @@ def calculator():
 
 calculator()
 
+# good set to go 
+
 #above is the basic math calculation like addition,subtraction, multiplication and division
 #i.e ,-,*,/
 
